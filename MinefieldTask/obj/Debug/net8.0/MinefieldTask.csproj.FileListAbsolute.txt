@@ -1,0 +1,14 @@
+L:\Projects\cSharpLearing\MinefieldTask\bin\Debug\net8.0\MinefieldTask.exe
+L:\Projects\cSharpLearing\MinefieldTask\bin\Debug\net8.0\MinefieldTask.deps.json
+L:\Projects\cSharpLearing\MinefieldTask\bin\Debug\net8.0\MinefieldTask.runtimeconfig.json
+L:\Projects\cSharpLearing\MinefieldTask\bin\Debug\net8.0\MinefieldTask.dll
+L:\Projects\cSharpLearing\MinefieldTask\bin\Debug\net8.0\MinefieldTask.pdb
+L:\Projects\cSharpLearing\MinefieldTask\obj\Debug\net8.0\MinefieldTask.GeneratedMSBuildEditorConfig.editorconfig
+L:\Projects\cSharpLearing\MinefieldTask\obj\Debug\net8.0\MinefieldTask.AssemblyInfoInputs.cache
+L:\Projects\cSharpLearing\MinefieldTask\obj\Debug\net8.0\MinefieldTask.AssemblyInfo.cs
+L:\Projects\cSharpLearing\MinefieldTask\obj\Debug\net8.0\MinefieldTask.csproj.CoreCompileInputs.cache
+L:\Projects\cSharpLearing\MinefieldTask\obj\Debug\net8.0\MinefieldTask.dll
+L:\Projects\cSharpLearing\MinefieldTask\obj\Debug\net8.0\refint\MinefieldTask.dll
+L:\Projects\cSharpLearing\MinefieldTask\obj\Debug\net8.0\MinefieldTask.pdb
+L:\Projects\cSharpLearing\MinefieldTask\obj\Debug\net8.0\MinefieldTask.genruntimeconfig.cache
+L:\Projects\cSharpLearing\MinefieldTask\obj\Debug\net8.0\ref\MinefieldTask.dll

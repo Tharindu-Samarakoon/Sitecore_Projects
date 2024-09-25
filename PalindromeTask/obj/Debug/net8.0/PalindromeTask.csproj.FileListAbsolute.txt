@@ -1,0 +1,14 @@
+L:\Projects\cSharpLearing\PalindromeTask\bin\Debug\net8.0\PalindromeTask.exe
+L:\Projects\cSharpLearing\PalindromeTask\bin\Debug\net8.0\PalindromeTask.deps.json
+L:\Projects\cSharpLearing\PalindromeTask\bin\Debug\net8.0\PalindromeTask.runtimeconfig.json
+L:\Projects\cSharpLearing\PalindromeTask\bin\Debug\net8.0\PalindromeTask.dll
+L:\Projects\cSharpLearing\PalindromeTask\bin\Debug\net8.0\PalindromeTask.pdb
+L:\Projects\cSharpLearing\PalindromeTask\obj\Debug\net8.0\PalindromeTask.GeneratedMSBuildEditorConfig.editorconfig
+L:\Projects\cSharpLearing\PalindromeTask\obj\Debug\net8.0\PalindromeTask.AssemblyInfoInputs.cache
+L:\Projects\cSharpLearing\PalindromeTask\obj\Debug\net8.0\PalindromeTask.AssemblyInfo.cs
+L:\Projects\cSharpLearing\PalindromeTask\obj\Debug\net8.0\PalindromeTask.csproj.CoreCompileInputs.cache
+L:\Projects\cSharpLearing\PalindromeTask\obj\Debug\net8.0\PalindromeTask.dll
+L:\Projects\cSharpLearing\PalindromeTask\obj\Debug\net8.0\refint\PalindromeTask.dll
+L:\Projects\cSharpLearing\PalindromeTask\obj\Debug\net8.0\PalindromeTask.pdb
+L:\Projects\cSharpLearing\PalindromeTask\obj\Debug\net8.0\PalindromeTask.genruntimeconfig.cache
+L:\Projects\cSharpLearing\PalindromeTask\obj\Debug\net8.0\ref\PalindromeTask.dll
